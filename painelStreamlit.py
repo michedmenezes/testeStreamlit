@@ -6,7 +6,7 @@ import random
 # 1. Configurações Iniciais da Página
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Painel IoT - ESP32",
+    page_title="Ain thiaguinhoo Gostosinhooo",
     page_icon="⚡",
     layout="wide"  # Usa toda a largura da tela
 )

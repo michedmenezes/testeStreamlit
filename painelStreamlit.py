@@ -14,7 +14,7 @@ st.set_page_config(
 # -----------------------------------------------------------------------------
 # 2. Título e Explicação
 # -----------------------------------------------------------------------------
-st.title("⚡ Painel de Controle: Python + ESP32 (Simulação)")
+st.title("⚡ Ain thiaguinhoo Gostosinhooo: Python + ESP32 (Simulação)")
 st.markdown("""
 Este painel é uma **interface de teste**. Aqui simulamos o que acontecerá
 quando você conectar seu ESP32 via MQTT.
